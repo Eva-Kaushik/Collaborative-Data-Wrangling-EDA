@@ -11,7 +11,7 @@ We explored track-level audio features, cleaned and standardized the dataset, an
 ```
 Collaborative-Data-Wrangling-EDA/
 │── data/
-│   └── spotify_cleaned.csv and spotify.csv(orginal)     # Cleaned dataset (raw excluded)
+│   └── spotify_cleaned.csv and spotify.csv(original)     # Cleaned dataset (raw excluded)
 │── notebooks/
 │   └── Main-EDA.ipynb             # Exploratory Data Analysis and Advanced EDA + Pattern Recognition
 │── CONTRIBUTIONS.md               # Team contributions
